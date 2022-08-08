@@ -1,8 +1,8 @@
 project:
   type: website
-  lang: fr
 
 website:
+  page-footer: "2022 - Un projet de l'équipe Emotions - Bien-être - Apprentissages de la HEP-VS" 
   favicon: "img/logo.png"
   title: "Formation continue (11.03)"
   navbar:
