@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "fce-11-03-site",
+    "title": "Développer les ressources de mes élèves : Séquence clé-en-main !",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Bienvenue sur le site web du cours de formation continue 11.03 de la HEP-VS.\nSur ce site, vous trouvez les ressources du cours, des idées pour aller plus loin et une page dédiée à la recherche qui se base sur les séquences proposées.\nLe site est régulièrement mis à jour."
   },
   {
     "objectID": "about.html",
@@ -54,5 +54,19 @@
     "title": "Programme général de la formation",
     "section": "Séance 4",
     "text": "Séance 4"
+  },
+  {
+    "objectID": "recherche.html",
+    "href": "recherche.html",
+    "title": "Recherche",
+    "section": "",
+    "text": "hey."
+  },
+  {
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "Ressources",
+    "section": "",
+    "text": "Salut"
   }
 ]
