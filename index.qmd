@@ -1,11 +1,10 @@
 ---
-title: "fce-11-03-site"
+title: "Développer les ressources de mes élèves : Séquence clé-en-main !"
 ---
 
-This is a Quarto website.
+## salut
+Bienvenue sur le site web du cours de formation continue 11.03 de la HEP-VS.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Sur ce site, vous trouvez les ressources du cours, des idées pour aller plus loin et une page dédiée à la recherche qui se base sur les séquences proposées.
 
-```{r}
-1 + 1
-```
+*Le site est régulièrement mis à jour.*

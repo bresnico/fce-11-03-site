@@ -1,5 +1,7 @@
 ---
 title: "Programme général de la formation"
+toc: true
+toc-title: "Parcourir la description"
 ---
 
 
