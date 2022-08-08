@@ -2,7 +2,6 @@
 title: "Développer les ressources de mes élèves : Séquence clé-en-main !"
 ---
 
-## salut
 Bienvenue sur le site web du cours de formation continue 11.03 de la HEP-VS.
 
 Sur ce site, vous trouvez les ressources du cours, des idées pour aller plus loin et une page dédiée à la recherche qui se base sur les séquences proposées.
