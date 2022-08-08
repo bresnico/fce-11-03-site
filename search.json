@@ -4,69 +4,90 @@
     "href": "index.html",
     "title": "Développer les ressources de mes élèves : Séquence clé-en-main !",
     "section": "",
-    "text": "Bienvenue sur le site web du cours de formation continue 11.03 de la HEP-VS.\nSur ce site, vous trouvez les ressources du cours, des idées pour aller plus loin et une page dédiée à la recherche qui se base sur les séquences proposées.\nLe site est régulièrement mis à jour."
+    "text": "Sur ce site, vous trouvez les ressources du cours, des idées pour aller plus loin et une page dédiée à la recherche qui se base sur les séquences proposées.\nLe site est régulièrement mis à jour."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "A propos",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Ce site sert de guichet unique aux participant·es du cours de formation continue 11.03 de la HEP-VS. Il est maintenu par Nicolas Bressoud, membre de l’équipe Émotions, Apprentissages et Bien-être de la HEP-VS."
   },
   {
-    "objectID": "programme.html#entre",
-    "href": "programme.html#entre",
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "A propos",
+    "section": "Contact",
+    "text": "Contact\nVous avez une question, une demande ou un commentaire ? Utilisez librement le formulaire suivant.\n\n\nNom complet  Courriel  Message"
+  },
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
     "title": "Programme général de la formation",
-    "section": "Entre",
-    "text": "Entre"
+    "section": "",
+    "text": "Salle : 220, bâtiment principal de la HEP-VS, site de St-Maurice, Rez-de-chaussée\n\nAccueil\nPrésentation de l’organisation\nPrésentation des forces de caractères\nExpérimentations\n\nProposition d’activités avant la prochaine séance :\n\nRéaliser le test VIA des forces\nNoter son top 5 des forces\nObserver leur utilisation\nApprofondir sa propre compréhension des enjeux"
   },
   {
-    "objectID": "programme.html#séance-2",
-    "href": "programme.html#séance-2",
+    "objectID": "programme.html#rencontre-du-jeudi-25-août-2022-de-17h30-à-19h10",
+    "href": "programme.html#rencontre-du-jeudi-25-août-2022-de-17h30-à-19h10",
     "title": "Programme général de la formation",
-    "section": "Séance 2",
-    "text": "Séance 2"
+    "section": "Rencontre du jeudi 25 août 2022 de 17h30 à 19h10",
+    "text": "Rencontre du jeudi 25 août 2022 de 17h30 à 19h10\nSalle : info à venir\n\nPrésentation de la séquence clé-en-main\nUtilisation de la séquence clé-en-main\n\nProposition d’activités avant la prochaine séance :\n\nUtilisation du matériel avec ses élèves\nParticipation à la recherche (facultatif et sur inscription)"
   },
   {
-    "objectID": "programme.html#entre-1",
-    "href": "programme.html#entre-1",
+    "objectID": "programme.html#rencontre-du-jeudi-6-octobre-2022-de-17h30-à-19h10",
+    "href": "programme.html#rencontre-du-jeudi-6-octobre-2022-de-17h30-à-19h10",
     "title": "Programme général de la formation",
-    "section": "Entre",
-    "text": "Entre"
+    "section": "Rencontre du jeudi 6 octobre 2022 de 17h30 à 19h10",
+    "text": "Rencontre du jeudi 6 octobre 2022 de 17h30 à 19h10\nSalle : info à venir\n\nEchange de pratiques sur les premières expériences avec les élèves\nApprofondissement d’activités pédagogiques\n\nProposition d’activités avant la prochaine séance :\n\nUtilisation du matériel avec ses élèves\nParticipation à la recherche (facultatif et sur inscription)"
   },
   {
-    "objectID": "programme.html#séance-3",
-    "href": "programme.html#séance-3",
+    "objectID": "programme.html#rencontre-du-mardi-6-décembre-2022-de-17h30-à-19h10",
+    "href": "programme.html#rencontre-du-mardi-6-décembre-2022-de-17h30-à-19h10",
     "title": "Programme général de la formation",
-    "section": "Séance 3",
-    "text": "Séance 3"
+    "section": "Rencontre du mardi 6 décembre 2022 de 17h30 à 19h10",
+    "text": "Rencontre du mardi 6 décembre 2022 de 17h30 à 19h10\nSalle : info à venir\n\nOn fête la St-Nicolas (je dis ça, je dis rien 🎅)\nBilan des expériences\nIllustration finale de pratiques\nPlan d’action pour la suite (personnel et professionnel)"
   },
   {
-    "objectID": "programme.html#entre-2",
-    "href": "programme.html#entre-2",
-    "title": "Programme général de la formation",
-    "section": "Entre",
-    "text": "Entre"
-  },
-  {
-    "objectID": "programme.html#séance-4",
-    "href": "programme.html#séance-4",
-    "title": "Programme général de la formation",
-    "section": "Séance 4",
-    "text": "Séance 4"
-  },
-  {
-    "objectID": "recherche.html",
-    "href": "recherche.html",
+    "objectID": "recherche.html#accords-institutionnels-et-aspects-éthiques",
+    "href": "recherche.html#accords-institutionnels-et-aspects-éthiques",
     "title": "Recherche",
-    "section": "",
-    "text": "hey."
+    "section": "Accords institutionnels et aspects éthiques",
+    "text": "Accords institutionnels et aspects éthiques"
   },
   {
-    "objectID": "ressources.html",
-    "href": "ressources.html",
+    "objectID": "recherche.html#consentements",
+    "href": "recherche.html#consentements",
+    "title": "Recherche",
+    "section": "Consentements",
+    "text": "Consentements"
+  },
+  {
+    "objectID": "recherche.html#protection-des-données",
+    "href": "recherche.html#protection-des-données",
+    "title": "Recherche",
+    "section": "Protection des données",
+    "text": "Protection des données"
+  },
+  {
+    "objectID": "recherche.html#récolte-des-données",
+    "href": "recherche.html#récolte-des-données",
+    "title": "Recherche",
+    "section": "Récolte des données",
+    "text": "Récolte des données"
+  },
+  {
+    "objectID": "ressources.html#applications-pédagogiques",
+    "href": "ressources.html#applications-pédagogiques",
     "title": "Ressources",
-    "section": "",
-    "text": "Salut"
+    "section": "Applications pédagogiques",
+    "text": "Applications pédagogiques"
+  },
+  {
+    "objectID": "ressources.html#la-séquence-hep-vs",
+    "href": "ressources.html#la-séquence-hep-vs",
+    "title": "Ressources",
+    "section": "La séquence HEP-VS",
+    "text": "La séquence HEP-VS"
   }
 ]
