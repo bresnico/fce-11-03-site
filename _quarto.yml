@@ -2,11 +2,13 @@ project:
   type: website
 
 website:
-  title: "fce-11-03-site"
+  favicon: "img/logo.png"
+  title: "Formation continue (11.03)"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - programme.qmd
       - about.qmd
 
 format:
@@ -15,5 +17,8 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
+
+margin-header: |
+  ![](img/hepvs.png)
 
