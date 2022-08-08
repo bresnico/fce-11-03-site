@@ -9,8 +9,50 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "A propos",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "programme.html#entre",
+    "href": "programme.html#entre",
+    "title": "Programme général de la formation",
+    "section": "Entre",
+    "text": "Entre"
+  },
+  {
+    "objectID": "programme.html#séance-2",
+    "href": "programme.html#séance-2",
+    "title": "Programme général de la formation",
+    "section": "Séance 2",
+    "text": "Séance 2"
+  },
+  {
+    "objectID": "programme.html#entre-1",
+    "href": "programme.html#entre-1",
+    "title": "Programme général de la formation",
+    "section": "Entre",
+    "text": "Entre"
+  },
+  {
+    "objectID": "programme.html#séance-3",
+    "href": "programme.html#séance-3",
+    "title": "Programme général de la formation",
+    "section": "Séance 3",
+    "text": "Séance 3"
+  },
+  {
+    "objectID": "programme.html#entre-2",
+    "href": "programme.html#entre-2",
+    "title": "Programme général de la formation",
+    "section": "Entre",
+    "text": "Entre"
+  },
+  {
+    "objectID": "programme.html#séance-4",
+    "href": "programme.html#séance-4",
+    "title": "Programme général de la formation",
+    "section": "Séance 4",
+    "text": "Séance 4"
   }
 ]
